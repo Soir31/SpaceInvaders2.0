@@ -16,7 +16,9 @@ to create a server-client connection and to upgrade the code. In the next image 
 
 We also made a class diagram to have an idea of what we needed and what we wanted to do before starting to make the upgrades of the game. We made this class diagram with the 
 knowledge that we have about Java, hierarchical data structures, and Object Orientation Programming so it does not represents the final result of the game but instead it 
-represents the general idea of what we thought that was necessary to complete our objective of upgrading the game in a good way.
+represents the general idea of what we thought that was necessary to complete our objective of upgrading the game in a good way. Also in this class diagram we did not put or left
+in blank the classes and methods that were used for the first project, we only put the new ones that were neccessary to develop the new version of the game.
+![Class Diagram](https://raw.githubusercontent.com/Soir31/SpaceInvaders2.0/main/Doc%20Images/Class%20Diagram.png)
 
 ### Upgrades of the code
 
