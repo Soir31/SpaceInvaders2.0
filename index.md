@@ -10,6 +10,7 @@ We kept a record of the tasks we assigned to each member of the group and its pr
 In here you can watch how the different tasks were made, the person in charge and the progress of how we developed the game. It also helped us to manage the amount of work that
 each person of the group was assigned to do so that nobody got an overcharge of work. In this project there were three main tasks to do: the creation of two new enemy classes, 
 to create a server-client connection and to upgrade the code. In the next image you can see the 3 main tasks mentioned before.
+![Jira Preview](https://raw.githubusercontent.com/Soir31/SpaceInvaders2.0/main/Doc%20Images/Jira.PNG)
 
 ### Class Diagram
 
