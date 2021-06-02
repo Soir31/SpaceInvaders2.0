@@ -22,7 +22,19 @@ in blank the classes and methods that were used for the first project, we only p
 
 ### Upgrades of the code
 
+The first upgrade was to improve the part of the code in which we generate the enemies and assign the levels of the games. In this part in the previous project we had one only
+method in which we generate the enemies and assigned the level at the same time. Now, in this project we made two different methods to do this task. In the next image you can see
+a little of the code we implemented to do this.
+![Upgrade1](https://raw.githubusercontent.com/Soir31/SpaceInvaders2.0/main/Doc%20Images/upgrade1.png)
 
+Other upgrade that we made for this project was the improvement of the E class enemies' collisions because in the previous project, the collisions sometimes didn't worked
+correctly throwing some errors about not detecting the shoots from the player and sometimes the game just crashed when a shoot from the player hits the enemy. So for this
+project we fixed all that and now it works correctly. This is some of the code that we used for fixing the problem:
+![Upgrade2](https://raw.githubusercontent.com/Soir31/SpaceInvaders2.0/main/Doc%20Images/upgrade2.png)
+
+And also regarding the movement of the E class enemies', we also made a little upgrade for the circular movement that it does. At first the code was a little of a disorder so
+we made some changes and now it looks better but the movement is still the same. In the next picture you can look how the code looked in the first project.
+![Upgrade4](https://raw.githubusercontent.com/Soir31/SpaceInvaders2.0/main/Doc%20Images/upgrade4.PNG)
 
 ### Made by:
 
