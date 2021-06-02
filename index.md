@@ -23,8 +23,8 @@ left in blank the classes and methods that were used for the first project, we o
 ### Upgrades of the code
 
 The first upgrade was to improve the part of the code in which we generate the enemies and assign the levels of the games. In this part in the previous project we had one only
-method in which we generate the enemies and assigned the level at the same time. Now, in this project we made two different methods to do this task. In the next image you can 
-see a little of the code we implemented to do this.
+method in which we generate the enemies and assigned the level at the same time. Now, in this project we made two different methods to do this task. In here you can see a little
+of the code we implemented for this.
 ![Upgrade1](https://raw.githubusercontent.com/Soir31/SpaceInvaders2.0/main/Doc%20Images/upgrade1.png)
 
 Other upgrade that we made for this project was the improvement of the E class enemies' collisions because in the previous project, the collisions sometimes didn't worked
